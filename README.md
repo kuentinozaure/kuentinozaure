@@ -11,6 +11,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuentinozaure&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="kuentinozaure" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuentinozaure&show_icons=true&theme=highcontrast&locale=en" alt="kuentinozaure" /></p>  
-  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuentinozaure&theme=highcontrast" alt="kuentinozaure" /></p>
