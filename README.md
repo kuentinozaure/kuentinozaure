@@ -2,7 +2,7 @@
 <h3 align="center">
 	A passionate full stack developer from France 🇫🇷,<br>
 	Currently working @ Half Serious <br>
-	<pre>Peace 4 all dinos 🦖🦕</pre>
+	Peace 4 all dinos 🦖🦕
 </h3>  
 
   
