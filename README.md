@@ -5,4 +5,4 @@
 	Peace 4 all dinos 🦖🦕
 </h3>  
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuentinozaure&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="kuentinozaure" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuentinozaure&show_icons=true&theme=highcontrast&locale=en" alt="kuentinozaure" /></p>  
