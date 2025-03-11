@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuentinozaure🦖</h1>  
 <h3 align="center">
-	A passionate full stack developer from France 🇫🇷,<br>
-	Currently working @ Half Serious <br>
+	A passionate full stack / ai developer from France 🇫🇷,<br> <br>
 	Peace 4 all dinos 🦖🦕
 </h3>  
   
