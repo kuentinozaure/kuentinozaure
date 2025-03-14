@@ -1,4 +1,4 @@
-#Hi 👋, I'm Kuentinozaure🦖
+# Hi 👋, I'm Kuentinozaure🦖
 
 ## 👨‍💻 Passionate Developer | 🏗️ Software Engineering & Architecture | 🤖 AI, Web, Mobile & LLM
 
